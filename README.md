@@ -1,2 +1,4 @@
-# I-Want-a-Wiki
-The official repository of I Want a Wiki website because we are transparent :)
+#I Want a Wiki (!)
+I Want a Wiki is a little website that lets you discover random Wikipedia article with a click of a button. This is a fun project idea for you to practise your HTML skills.
+
+
